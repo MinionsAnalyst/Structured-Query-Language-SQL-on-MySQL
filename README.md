@@ -2,11 +2,11 @@
 
 The aim of this project is to create a sample database on MySQL and querying it.
 
-Step1: Create Table 
+**Step1: Create Table 
 
 Step2: Insert Data
 
-Step3: Querying the database with the following requirements
+Step3: Querying the database with the following requirements**
 
 a) For each student registered in Semester 'I-2001', list SID and SNAME of the student, and CID
 of the corresponding course(s).
